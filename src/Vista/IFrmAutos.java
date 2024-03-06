@@ -76,7 +76,7 @@ public class IFrmAutos extends JInternalFrame {
 		getContentPane().add(panel);
 		panel.setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("Ingresar Autos");
+		JLabel lblNewLabel = new JLabel("Ingresar PEPESSSS");
 		lblNewLabel.setBounds(10, 10, 335, 44);
 		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 36));
 		panel.add(lblNewLabel);
